@@ -1,5 +1,5 @@
 const formulario = document.getElementById("calcForm")/*pegando o formulário*/
-
+//Marcelo Shimizu 26110287
 formulario.addEventListener("submit", function(e){
     e.preventDefault();/*impede que a página seja recarregada*/ 
 
